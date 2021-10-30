@@ -86,7 +86,7 @@ I'm a passionate developer who's always willing to learn and work across technol
         <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/m3uToStrm?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/m3uToStrm?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/m3uToStrm?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/m3uToStrm?label=go&style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/m3uToStrm?label=python&style=flat-square"/></td> 
       </tr>
 	    <tr>
 	      <td><a href="https://github.com/DFofanov/personal_website"><b>🌐 Personal-Website</b></a></td>
