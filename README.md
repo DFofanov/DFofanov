@@ -80,15 +80,15 @@ I'm a passionate developer who's always willing to learn and work across technol
       </tr>
     </thead>
     <tbody>
-	     <tr>
-	      <td><a href="https://github.com/DFofanov/go-twitter-helper-bot"><b>🤖 go-twitter-helper-bot</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/go-twitter-helper-bot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/go-twitter-helper-bot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/go-twitter-helper-bot?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/go-twitter-helper-bot?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/go-twitter-helper-bot?label=go&style=flat-square"/></td> 
+      <tr>
+	<td><a href="https://github.com/DFofanov/m3uToStrm"><b>m3uToStrm</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/m3uToStrm?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/m3uToStrm?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/m3uToStrm?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/m3uToStrm?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/m3uToStrm?label=go&style=flat-square"/></td> 
       </tr>
-	     <tr>
+	    <tr>
 	      <td><a href="https://github.com/DFofanov/personal_website"><b>🌐 Personal-Website</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/personal_website?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/personal_website?style=flat-square&labelColor=343b41"/></td>
