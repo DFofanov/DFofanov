@@ -88,53 +88,21 @@ I'm a passionate developer who's always willing to learn and work across technol
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/m3uToStrm?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/m3uToStrm?label=python&style=flat-square"/></td> 
       </tr>
-	    <tr>
-	      <td><a href="https://github.com/DFofanov/personal_website"><b>🌐 Personal-Website</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/personal_website?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/personal_website?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/personal_website?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/personal_website?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/personal_website?label=javascript&style=flat-square"/></td> 
-      </tr>
-	     <tr>
-	      <td><a href="https://github.com/DFofanov/DFofanov"><b>✨ GitHub Profile</b></a></td>
+      <tr>
+	<td><a href="https://github.com/DFofanov/DFofanov"><b>✨ GitHub Profile</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/DFofanov?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/DFofanov?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/DFofanov?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/DFofanov?style=flat-square"/></td>
-     	 <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+     	<td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/DFofanov/ContactsBook"><b><img src="https://emojis.slackmojis.com/emojis/images/1622514800/42609/bookmark.png?1622514800" height="15" width="15"> ContactBook</b></a></td>
+        <td><a href="https://github.com/DFofanov/ContactsBook"><b><img src="https://emojis.slackmojis.com/emojis/images/1622514800/42609/bookmark.png?1622514800" height="15" width="15"> ContactBook</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/ContactsBook?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/ContactsBook?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/ContactsBook?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/ContactsBook?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/ContactsBook?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/DFofanov/go-jwt"><b><img src="https://emojis.slackmojis.com/emojis/images/1506281744/2943/jwt.png?1506281744" height="15" width="15"> Go-JWT</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/go-jwt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/go-jwt?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/go-jwt?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/go-jwt?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/go-jwt?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/DFofanov/Ethereum-Swap"><b> <img src="https://user-images.githubusercontent.com/49576526/120935033-85a40f80-c71e-11eb-986e-6a1b3b1a778f.png" height="20" width="20"> Ethereum-Swap</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/Ethereum-Swap?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/Ethereum-Swap?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/Ethereum-Swap?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/Ethereum-Swap?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/Ethereum-Swap?label=javascrip&style=flat-square"/></td> 
-      </tr>
-        <tr>
-	      <td><a href="https://github.com/DFofanov/exercise-tracker"><b>🏋️ Exercise-Tracker</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/DFofanov/exercise-tracker?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/DFofanov/exercise-tracker?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/DFofanov/exercise-tracker?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DFofanov/exercise-tracker?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DFofanov/exercise-tracker?label=javascript&style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
